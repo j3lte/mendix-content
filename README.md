@@ -1,5 +1,7 @@
 # Outlook MSG Parser
 
+![LOGO](/content/marketplace_icon.png)
+
 This is a module that enables a Mendix Developer to parse Outlook MSG files that are stored as FileDocument objects.
 
 ## Contents
