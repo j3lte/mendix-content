@@ -6,3 +6,7 @@
 ## Modules:
 
 [Outlook MSG Parser](https://github.com/j3lte/mendix-content/tree/outlook-msg-parser)
+
+## Widgets:
+
+[Ref Selector](https://github.com/j3lte/mendix-content/tree/reference-selector)
