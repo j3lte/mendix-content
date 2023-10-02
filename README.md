@@ -1,7 +1,7 @@
 # Mendix Content
 
 
-<center>Humble Central Hub for my Mendix Content (those that do not have their own repository)</center>
+<center>Central Hub for my Mendix Content (those that do not have their own repository)</center>
 
 ## Modules:
 
