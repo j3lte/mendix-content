@@ -74,6 +74,33 @@ If you want to know why you would use it, I recommend checking the [Reference Se
     - Conditional Editability
     - Name
 
+## Styling
+
+Most of the styling of this widget is done by the component itself. However, you can override the following classes to change the styling:
+
+```css
+.widget-select {}
+.widget-select__control {}
+.widget-select__control.widget-select__control--menu-is-open {}
+.widget-select__value-container {}
+.widget-select__value-container--is-multi {}
+.widget-select__placeholder {}
+.widget-select__input-container {}
+.widget-select__input {}
+.widget-select__indicators {}
+.widget-select__indicator-separator {}
+.widget-select__dropdown-indicator {}
+.widget-select__clear-indicator {}
+.widget-select__menu {}
+.widget-select__menu-list {}
+.widget-select__menu-list.widget-select__menu-list--is-multi {}
+.widget-select__option {}
+.widget-select__option.widget-select__option--is-focused {}
+.widget-select__checkbox {}
+```
+
+Note that most of this targetted styling will probably need `!important` to override the default styling.
+
 ## Demo project
 
 [Click here](https://caffcodecontenttestapp-sandbox.mxapps.io/p/ref-selector-home) to see the widget in action
